@@ -1,10 +1,12 @@
 module.exports = {
   siteMetadata: {
     title: `Mayke Alisson`,
-    description: `Apaixonado por tecnologia e desenvolvedor fullStack .`,
+    position: `FullStack Develop`,
+    description: `Membro da Equipe de TI da Empresa Arcom, apaixonado por tecnologia, podcast e um eterno aprendiz.`,
     author: `@maykealisson`,
   },
   plugins: [
+    `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
