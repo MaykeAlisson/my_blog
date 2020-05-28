@@ -1,12 +1,17 @@
 import React from "react"
-import Profile from "../Profile"
 
-import * as S from './styled'
+import Profile from "../Profile"
+import SocialLinks from "../SocialLinks"
+import MenuLinks from "../MenuLinks"
+
+import * as S from "./styled"
 
 const Sidebar = () => (
   <S.SidebarWrapper>
-  <Profile/>
+    <Profile />
+    <SocialLinks/>
+    <MenuLinks/>
   </S.SidebarWrapper>
 )
 
-export default Sidebar;
+export default Sidebar
