@@ -8,7 +8,7 @@ module.exports = {
     position: `FullStack Develop`,
     description: `Membro da Equipe de TI da Empresa Arcom, apaixonado por tecnologia, podcast e um eterno aprendiz.`,
     author: `@maykealisson`,
-    siteUrl: `https://maykealisson.com.br`,
+    siteUrl: `https://maykealisson.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-styled-components`,
@@ -86,5 +86,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
+    `gatsby-plugin-netlify-cms`,
   ],
 }
