@@ -8,6 +8,7 @@ import { Grid } from "styled-icons/boxicons-solid/Grid"
 import { ThList as List } from "styled-icons/typicons/ThList"
 
 import * as S from "./styled"
+import scrollToTop from '../../utils/scrollToTop';
 
 const MenuBar = () => {
   const [theme, setTheme] = useState(null);
@@ -56,7 +57,7 @@ const MenuBar = () => {
         >
           {isListMode ? <Grid /> : <List />}
         </S.MenuBarItem>
-        <S.MenuBarItem title="Ir para o Topo">
+        <S.MenuBarItem title="Ir para o Topo" onClick={scrollToTop}>
           <Arrow />
         </S.MenuBarItem>
       </S.MenuBarGroup>

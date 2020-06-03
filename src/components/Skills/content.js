@@ -6,12 +6,6 @@ const links = [
     label: 'CSS'
   },
   {
-    label: 'Docker'
-  },
-  {
-    label: 'Figma'
-  },
-  {
     label: 'Gatsby'
   },
   {
@@ -39,22 +33,10 @@ const links = [
     label: 'NodeJs'
   },
   {
-    label: 'Pocket'
-  },
-  {
     label: 'Python'
   },
   {
     label: 'React'
-  },
-  {
-    label: 'Sass'
-  },
-  {
-    label: 'Slack'
-  },
-  {
-    label: 'Ubuntu'
   },
   {
     label: 'Wordpress'

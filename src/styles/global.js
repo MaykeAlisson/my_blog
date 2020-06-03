@@ -71,6 +71,11 @@ const GlobalStyles = createGlobalStyle`
     --background: #16202c;
     --white: #fff;
     --black: #222;
+    --colorLetters: #e5e3e3;
+    --linkColor: #f7a5a6;
+    --iconColor: #1C1C1C;
+    --backgroundIcons: #DCDCDC;
+    --hover: #FFDEAD;
   }
   body.light {
     --borders: #dedede;
@@ -81,6 +86,11 @@ const GlobalStyles = createGlobalStyle`
     --background: #fff;
     --white: #fff;
     --black: #222;
+    --colorLetters: #363636;
+    --linkColor: #f77394;
+    --iconColor: #1C1C1C;
+    --backgroundIcons: #C0C0C0;
+    --hover: #000;
   }
 `
 export default GlobalStyles

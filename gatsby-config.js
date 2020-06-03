@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: `Mayke Alisson`,
     position: `FullStack Develop`,
-    description: `Membro da Equipe de TI da Empresa Arcom, apaixonado por tecnologia, podcast e um eterno aprendiz.`,
+    description: `Membro da Equipe de TI da Empresa Arcom, apaixonado por tecnologia e podcast.`,
     author: `@maykealisson`,
     siteUrl: `https://maykealisson.netlify.app/`,
   },

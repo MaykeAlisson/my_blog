@@ -62,19 +62,6 @@ export const SkillsWrapper = styled.div`
   align-items: center;
 `;
 
-export const SkillsLinkIcon = styled.a`
-  height: 60px;
-  display: flex;
-  width: 60px;
-  justify-content: center;
-  align-items: center;
-
-  .img {
-    width: 40px;
-    height: 40px;
-  }
-`;
-
 export const SkillsSubTitle = styled.h2`
   padding: 2rem 3rem 0.2rem 3rem;
   font-family: 'Didact Gothic', sans-serif;

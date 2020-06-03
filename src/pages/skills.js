@@ -5,11 +5,8 @@ import SEO from '../components/seo';
 import links from '../components/Skills/content';
 import Icons from '../components/Skills/icons';
 
-import { Code } from 'styled-icons/material/Code';
-
 import {
   SkillsHeader,
-  SkillsLink,
   SkillsList,
   SkillsItem,
   SkillsWrapper,
@@ -23,9 +20,6 @@ const SkillsPage = () => (
   <Layout>
     <SEO title="Skills" />
     <SkillsHeader>Skills</SkillsHeader>
-    <SkillsLink href="https://ildaneta.netlify.com/about">
-      Visite o Sobre Mim
-    </SkillsLink>
     <SkillsSubTitle>Hard Skills</SkillsSubTitle>
     <SkillsList>
       {links.map((link, index) => {
@@ -46,7 +40,6 @@ const SkillsPage = () => (
     <SoftSkillsWrapper>
       <Div>
         <SkillsP>
-          {/* <Code /> */}
           Empatia
         </SkillsP>
       </Div>
