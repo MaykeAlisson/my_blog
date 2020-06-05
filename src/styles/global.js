@@ -72,7 +72,7 @@ const GlobalStyles = createGlobalStyle`
     --white: #fff;
     --black: #222;
     --colorLetters: #e5e3e3;
-    --linkColor: #f7a5a6;
+    --linkColor: #4682B4;
     --iconColor: #1C1C1C;
     --backgroundIcons: #DCDCDC;
     --hover: #FFDEAD;
@@ -87,7 +87,7 @@ const GlobalStyles = createGlobalStyle`
     --white: #fff;
     --black: #222;
     --colorLetters: #363636;
-    --linkColor: #f77394;
+    --linkColor: #4682B4;
     --iconColor: #1C1C1C;
     --backgroundIcons: #C0C0C0;
     --hover: #000;

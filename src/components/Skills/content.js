@@ -1,5 +1,8 @@
 const links = [
   {
+    label: 'Java'
+  },
+  {
     label: 'Algolia'
   },
   {

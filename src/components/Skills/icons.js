@@ -1,3 +1,4 @@
+import {Java} from 'styled-icons/fa-brands/Java';
 import { Algolia } from 'styled-icons/fa-brands/Algolia';
 import { Css3Alt as CSS } from 'styled-icons/fa-brands/Css3Alt';
 import { Gatsby } from 'styled-icons/remix-fill/Gatsby';
@@ -15,6 +16,7 @@ import { Wordpress } from 'styled-icons/fa-brands/Wordpress';
 import { Yarn } from 'styled-icons/fa-brands/Yarn';
 
 const Icons = {
+  Java,
   Algolia,
   CSS,
   Gatsby,
