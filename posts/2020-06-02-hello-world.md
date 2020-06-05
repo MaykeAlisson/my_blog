@@ -6,6 +6,6 @@ category: Comp
 background: '#3CB371'
 ---
 
-Nem sempre gostei de estudar, mais sempre gostei de aprender. Com o passar do tempo vi a necessidade de compartilhar oque venho aprendendo, para isso resolvi criar um blog pessoal para poder escrever sobre tecnologia entre outras coisas.
+Sempre gostei de aprender, com o passar do tempo vi a necessidade de compartilhar o que venho aprendendo, para isso resolvi criar um blog pessoal para poder escrever sobre tecnologia entre outras coisas.
 
 Espero que gostem das novidades!
